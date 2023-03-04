@@ -15,4 +15,4 @@ Additional commands:
 
 ### Support ###
 
-Use GitLab Issues section for tracking bugs or write to [support@cleanuitemplate.com](mailto:support@cleanuitemplate.com).
+Use GitLab Issues section for tracking bugs or write to [pranav@consolelabs.in](mailto:pranav@consolelabs.in).
