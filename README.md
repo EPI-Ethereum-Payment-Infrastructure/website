@@ -15,4 +15,4 @@ Additional commands:
 
 ### Support ###
 
-Use GitLab Issues section for tracking bugs or write to [pranav@consolelabs.in](mailto:pranav@consolelabs.in).
+Use Github Issues section for tracking bugs or write to [pranav@consolelabs.in](mailto:pranav@consolelabs.in).
