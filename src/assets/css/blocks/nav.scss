@@ -81,8 +81,9 @@
   &-logo {
     display: inline-block;
     vertical-align: top;
-    width: 152px;
-    height: 38px;
+    width: 100px;
+    height: 100px;
+
 
     @media screen and (max-width: $sm-max-width) {
       padding-top: rem(6);

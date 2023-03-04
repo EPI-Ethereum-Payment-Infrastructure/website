@@ -35,18 +35,21 @@
     position: relative;
 
     img {
-      margin: -110px 0 -220px -250px;
-      max-width: none;
+
+      margin: -110px 0 -220px 250px;
+      //max-width: none;
     }
   }
 
   @media (max-width: $md-max-width) {
     &-image {
       margin: 0 -500px;
+
+
       text-align: center;
 
       img {
-        margin: -30px 0 -200px -30px;
+        margin: 30px 0 0 0;
       }
     }
   }
